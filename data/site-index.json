@@ -1,7 +1,7 @@
 {
   "$schema": "hypt-site-index/1.0",
   "version": "1.0.0",
-  "built_at": "2026-02-28T02:37:24.169Z",
+  "built_at": "2026-02-28T02:47:03.409Z",
   "sources": {
     "DIRE": {
       "manifest": "1.0",
@@ -121,7 +121,7 @@
         ],
         "visual_description": "세 가지 화장품 용기가 베이지색 직물 위에 놓여 있다. 왼쪽에는 크림 용기, 중앙에는 투명한 토너 병, 오른쪽에는 튜브형 클렌저가 배치되어 있다. 전체적으로 부드럽고 자연스러운 색감과 차분한 분위기가 느껴진다.",
         "is_main_image": true,
-        "slug": "dire-skincare-product-lineup",
+        "slug": "insert-1",
         "search_text": "DIRE dire-skincare-product-lineup 디르 카사바 하이드레이팅 워터, 모이스처, 클렌저 3종 세트. 미니멀하고 따뜻한 디자인으로 건강한 뷰티 리추얼을 제안하는 디르의 스킨케어 제품을 만나보세요. 세 가지 화장품 용기가 베이지색 직물 위에 놓여 있다. 왼쪽에는 크림 용기, 중앙에는 투명한 토너 병, 오른쪽에는 튜브형 클렌저가 배치되어 있다. 전체적으로 부드럽고 자연스러운 색감과 차분한 분위기가 느껴진다. minimal photographic soft-tonal corporate-clean organic-modern serene fresh sophisticated warm 일상에 가치를 더하는 헬스 앤 뷰티 라이프스타일 브랜드로, 건강한 리추얼 형성을 통해 균형잡힌 삶을 제안한다. minimal, soft-tonal, photographic, corporate-clean, organic-modern, typographic, editorial serene, sophisticated, fresh, warm, elegant, confident calm, professional, caring, authoritative Habit Tracker에서 영감을 받은 그래프 형태의 비주얼 모티브로 일상의 리추얼을 시각화하고, 개인화된 넘버링 시스템을 통해 자신만의 리추얼 라이프를 발견하도록 돕는다. DIRE, 디르, 브랜드 아이덴티티, 라이프스타일 브랜드, 헬스 앤 뷰티, 리추얼, 습관 형성, Essentual, 넘버링 시스템, 큐레이터, 균형잡힌 삶"
       },
       {
@@ -178,7 +178,7 @@
         ],
         "visual_description": "어두운 배경 위에 크림색 직사각형 라벨이 중앙에 배치되어 있습니다. 라벨에는 제품명, 용량, 브랜드명 등 텍스트 정보와 함께 최소한의 그래픽 요소가 정돈된 그리드 레이아웃으로 구성되어 있습니다.",
         "is_main_image": false,
-        "slug": "dire-product-label-hydrating-water",
+        "slug": "insert-10a",
         "search_text": "DIRE dire-product-label-hydrating-water 디르(DIRE) 카사바 하이드레이팅 워터 제품의 라벨 디자인입니다. 미니멀한 그리드 시스템과 차분한 컬러 팔레트, 명확한 타이포그래피로 브랜드의 정체성을 표현합니다. 건강한 리추얼을 제안하는 디르의 섬세한 디자인을 확인하세요. 어두운 배경 위에 크림색 직사각형 라벨이 중앙에 배치되어 있습니다. 라벨에는 제품명, 용량, 브랜드명 등 텍스트 정보와 함께 최소한의 그래픽 요소가 정돈된 그리드 레이아웃으로 구성되어 있습니다. minimal typographic corporate-clean high-contrast editorial serene sophisticated confident authoritative 일상에 가치를 더하는 헬스 앤 뷰티 라이프스타일 브랜드로, 건강한 리추얼 형성을 통해 균형잡힌 삶을 제안한다. minimal, soft-tonal, photographic, corporate-clean, organic-modern, typographic, editorial serene, sophisticated, fresh, warm, elegant, confident calm, professional, caring, authoritative Habit Tracker에서 영감을 받은 그래프 형태의 비주얼 모티브로 일상의 리추얼을 시각화하고, 개인화된 넘버링 시스템을 통해 자신만의 리추얼 라이프를 발견하도록 돕는다. DIRE, 디르, 브랜드 아이덴티티, 라이프스타일 브랜드, 헬스 앤 뷰티, 리추얼, 습관 형성, Essentual, 넘버링 시스템, 큐레이터, 균형잡힌 삶"
       },
       {
@@ -217,7 +217,7 @@
         "color_palette": [],
         "visual_description": "시간과 감정 상태를 기록하고 해석하는 방법을 제시하는 그리드 차트와 숫자 가이드입니다. 차트는 Day/Night 시간 축과 0부터 10까지의 감정 강도 축으로 구성되어 있으며, 특정 시점의 감정 상태를 점으로 표시합니다. 하단에는 각 숫자의 의미와 제품 사용 루틴, 감정 확인 방법에 대한 설명이 있습니다.",
         "is_main_image": false,
-        "slug": "dire-guideline-emotion-tracker",
+        "slug": "insert-10b",
         "search_text": "DIRE dire-guideline-emotion-tracker 디르(DIRE) 브랜드의 감정 및 시간 추적 가이드라인 시트. 건강한 리추얼 형성을 돕는 그리드 시스템과 넘버링 가이드로, 개인의 일상과 감정 변화를 기록하고 관리하여 균형 잡힌 라이프스타일을 제안합니다. 시간과 감정 상태를 기록하고 해석하는 방법을 제시하는 그리드 차트와 숫자 가이드입니다. 차트는 Day/Night 시간 축과 0부터 10까지의 감정 강도 축으로 구성되어 있으며, 특정 시점의 감정 상태를 점으로 표시합니다. 하단에는 각 숫자의 의미와 제품 사용 루틴, 감정 확인 방법에 대한 설명이 있습니다. minimal typographic corporate-clean grid-based authoritative serene contemplative 일상에 가치를 더하는 헬스 앤 뷰티 라이프스타일 브랜드로, 건강한 리추얼 형성을 통해 균형잡힌 삶을 제안한다. minimal, soft-tonal, photographic, corporate-clean, organic-modern, typographic, editorial serene, sophisticated, fresh, warm, elegant, confident calm, professional, caring, authoritative Habit Tracker에서 영감을 받은 그래프 형태의 비주얼 모티브로 일상의 리추얼을 시각화하고, 개인화된 넘버링 시스템을 통해 자신만의 리추얼 라이프를 발견하도록 돕는다. DIRE, 디르, 브랜드 아이덴티티, 라이프스타일 브랜드, 헬스 앤 뷰티, 리추얼, 습관 형성, Essentual, 넘버링 시스템, 큐레이터, 균형잡힌 삶"
       },
       {
@@ -284,7 +284,7 @@
         ],
         "visual_description": "따뜻한 햇살이 비치는 욕실 세면대 위에 베이지색 클렌저 튜브와 대나무 칫솔이 꽂힌 유리컵, 그리고 질감 있는 트레이가 놓여 있습니다. 전반적으로 차분하고 자연적인 분위기를 연출합니다.",
         "is_main_image": false,
-        "slug": "dire-cleanser-daily-ritual",
+        "slug": "insert-12a",
         "search_text": "DIRE dire-cleanser-daily-ritual 디르 카사바 각질 클렌저로 건강한 피부 리추얼을 완성하세요. 미니멀한 디자인과 자연 친화적인 소재가 어우러진 디르의 헬스 앤 뷰티 제품으로, 일상에 균형과 가치를 더합니다. 따뜻하고 차분한 욕실 인테리어에 완벽하게 어울립니다. 따뜻한 햇살이 비치는 욕실 세면대 위에 베이지색 클렌저 튜브와 대나무 칫솔이 꽂힌 유리컵, 그리고 질감 있는 트레이가 놓여 있습니다. 전반적으로 차분하고 자연적인 분위기를 연출합니다. minimal organic-modern photographic soft-tonal corporate-clean serene fresh warm elegant 일상에 가치를 더하는 헬스 앤 뷰티 라이프스타일 브랜드로, 건강한 리추얼 형성을 통해 균형잡힌 삶을 제안한다. minimal, soft-tonal, photographic, corporate-clean, organic-modern, typographic, editorial serene, sophisticated, fresh, warm, elegant, confident calm, professional, caring, authoritative Habit Tracker에서 영감을 받은 그래프 형태의 비주얼 모티브로 일상의 리추얼을 시각화하고, 개인화된 넘버링 시스템을 통해 자신만의 리추얼 라이프를 발견하도록 돕는다. DIRE, 디르, 브랜드 아이덴티티, 라이프스타일 브랜드, 헬스 앤 뷰티, 리추얼, 습관 형성, Essentual, 넘버링 시스템, 큐레이터, 균형잡힌 삶"
       },
       {
@@ -351,7 +351,7 @@
         ],
         "visual_description": "투명한 용기에 담긴 스킨케어 제품이 따뜻한 베이지 톤 배경과 흐릿한 비누 옆에 놓여 있다. 부드러운 빛이 제품과 주변을 감싸며 차분하고 깨끗한 분위기를 연출한다.",
         "is_main_image": false,
-        "slug": "dire-product-hydrating-water-bottle",
+        "slug": "insert-12b",
         "search_text": "DIRE dire-product-hydrating-water-bottle 디르 카사바 하이드레이팅 워터 제품 사진. 미니멀한 디자인과 따뜻한 색감으로 디르 브랜드의 차분하고 건강한 리추얼 라이프스타일을 제안합니다. 투명한 용기가 제품의 순수함을 강조합니다. 투명한 용기에 담긴 스킨케어 제품이 따뜻한 베이지 톤 배경과 흐릿한 비누 옆에 놓여 있다. 부드러운 빛이 제품과 주변을 감싸며 차분하고 깨끗한 분위기를 연출한다. minimal photographic soft-tonal corporate-clean organic-modern serene fresh sophisticated warm 일상에 가치를 더하는 헬스 앤 뷰티 라이프스타일 브랜드로, 건강한 리추얼 형성을 통해 균형잡힌 삶을 제안한다. minimal, soft-tonal, photographic, corporate-clean, organic-modern, typographic, editorial serene, sophisticated, fresh, warm, elegant, confident calm, professional, caring, authoritative Habit Tracker에서 영감을 받은 그래프 형태의 비주얼 모티브로 일상의 리추얼을 시각화하고, 개인화된 넘버링 시스템을 통해 자신만의 리추얼 라이프를 발견하도록 돕는다. DIRE, 디르, 브랜드 아이덴티티, 라이프스타일 브랜드, 헬스 앤 뷰티, 리추얼, 습관 형성, Essentual, 넘버링 시스템, 큐레이터, 균형잡힌 삶"
       },
       {
@@ -408,7 +408,7 @@
         ],
         "visual_description": "한 사람이 흰색 쇼핑백을 들고 있는 모습입니다. 쇼핑백에는 'DI / RE' 로고와 하단에 작은 글씨가 인쇄되어 있으며, 부드러운 자연광이 비치고 있어 따뜻하고 차분한 분위기를 연출합니다.",
         "is_main_image": false,
-        "slug": "dire-packaging-shopping-bag",
+        "slug": "insert-13a",
         "search_text": "DIRE dire-packaging-shopping-bag DIRE 브랜드의 흰색 쇼핑백 이미지. 미니멀한 디자인과 따뜻한 색감으로 일상 속 건강한 리추얼을 제안하는 헬스 앤 뷰티 브랜드의 가치를 전달합니다. 쇼핑백 디자인, 브랜드 패키징. 한 사람이 흰색 쇼핑백을 들고 있는 모습입니다. 쇼핑백에는 'DI / RE' 로고와 하단에 작은 글씨가 인쇄되어 있으며, 부드러운 자연광이 비치고 있어 따뜻하고 차분한 분위기를 연출합니다. minimal soft-tonal corporate-clean photographic editorial serene sophisticated fresh intimate 일상에 가치를 더하는 헬스 앤 뷰티 라이프스타일 브랜드로, 건강한 리추얼 형성을 통해 균형잡힌 삶을 제안한다. minimal, soft-tonal, photographic, corporate-clean, organic-modern, typographic, editorial serene, sophisticated, fresh, warm, elegant, confident calm, professional, caring, authoritative Habit Tracker에서 영감을 받은 그래프 형태의 비주얼 모티브로 일상의 리추얼을 시각화하고, 개인화된 넘버링 시스템을 통해 자신만의 리추얼 라이프를 발견하도록 돕는다. DIRE, 디르, 브랜드 아이덴티티, 라이프스타일 브랜드, 헬스 앤 뷰티, 리추얼, 습관 형성, Essentual, 넘버링 시스템, 큐레이터, 균형잡힌 삶"
       },
       {
@@ -477,7 +477,7 @@
         ],
         "visual_description": "이미지는 상단에 초점이 흐려진 녹색 식물 배경과 브랜드 메시지 텍스트가 배치되어 있고, 하단에는 욕실 세면대 위에 베이지색 튜브형 제품, 칫솔, 유리컵, 돌 트레이가 놓인 정물 사진이 구성되어 있다. 전체적으로 자연 친화적이고 차분한 분위기를 연출한다.",
         "is_main_image": false,
-        "slug": "dire-campaign-daily-ritual-product-shot",
+        "slug": "insert-14a",
         "search_text": "DIRE dire-campaign-daily-ritual-product-shot 디르(DIRE)의 '일상의 가치'를 담은 캠페인 이미지. 자연 친화적인 욕실 공간에서 베이지색 스킨케어 제품과 칫솔이 조화롭게 놓여있어, 건강한 셀프케어 루틴과 미니멀한 라이프스타일을 제안합니다. 브랜드 메시지가 상단에 명확히 제시됩니다. 이미지는 상단에 초점이 흐려진 녹색 식물 배경과 브랜드 메시지 텍스트가 배치되어 있고, 하단에는 욕실 세면대 위에 베이지색 튜브형 제품, 칫솔, 유리컵, 돌 트레이가 놓인 정물 사진이 구성되어 있다. 전체적으로 자연 친화적이고 차분한 분위기를 연출한다. minimal photographic organic-modern corporate-clean soft-tonal editorial serene fresh sophisticated calm natural 일상에 가치를 더하는 헬스 앤 뷰티 라이프스타일 브랜드로, 건강한 리추얼 형성을 통해 균형잡힌 삶을 제안한다. minimal, soft-tonal, photographic, corporate-clean, organic-modern, typographic, editorial serene, sophisticated, fresh, warm, elegant, confident calm, professional, caring, authoritative Habit Tracker에서 영감을 받은 그래프 형태의 비주얼 모티브로 일상의 리추얼을 시각화하고, 개인화된 넘버링 시스템을 통해 자신만의 리추얼 라이프를 발견하도록 돕는다. DIRE, 디르, 브랜드 아이덴티티, 라이프스타일 브랜드, 헬스 앤 뷰티, 리추얼, 습관 형성, Essentual, 넘버링 시스템, 큐레이터, 균형잡힌 삶"
       },
       {
@@ -544,7 +544,7 @@
         ],
         "visual_description": "상단에는 흐릿한 데이지 꽃밭을 배경으로 브랜드 메시지가 흰색 텍스트로 배치되어 있으며, 하단에는 투명한 화장품 병과 비누 조각이 따뜻한 조명 아래 놓여 있습니다. 전체적으로 부드럽고 자연 친화적인 분위기를 연출합니다.",
         "is_main_image": false,
-        "slug": "dire-product-hydrating-water-with-soap",
+        "slug": "insert-14b",
         "search_text": "DIRE dire-product-hydrating-water-with-soap 디르(DIRE)의 하이드레이팅 워터와 비누 제품을 담은 감성적인 이미지입니다. 자연 친화적인 성분과 일상 속 건강한 아름다움을 추구하는 브랜드의 가치를 따뜻하고 미니멀한 스타일로 표현합니다. 피부에 편안함을 선사하는 디르의 제품으로 당신의 리추얼을 완성하세요. 상단에는 흐릿한 데이지 꽃밭을 배경으로 브랜드 메시지가 흰색 텍스트로 배치되어 있으며, 하단에는 투명한 화장품 병과 비누 조각이 따뜻한 조명 아래 놓여 있습니다. 전체적으로 부드럽고 자연 친화적인 분위기를 연출합니다. soft-tonal photographic minimal corporate-clean organic-modern serene warm fresh elegant 일상에 가치를 더하는 헬스 앤 뷰티 라이프스타일 브랜드로, 건강한 리추얼 형성을 통해 균형잡힌 삶을 제안한다. minimal, soft-tonal, photographic, corporate-clean, organic-modern, typographic, editorial serene, sophisticated, fresh, warm, elegant, confident calm, professional, caring, authoritative Habit Tracker에서 영감을 받은 그래프 형태의 비주얼 모티브로 일상의 리추얼을 시각화하고, 개인화된 넘버링 시스템을 통해 자신만의 리추얼 라이프를 발견하도록 돕는다. DIRE, 디르, 브랜드 아이덴티티, 라이프스타일 브랜드, 헬스 앤 뷰티, 리추얼, 습관 형성, Essentual, 넘버링 시스템, 큐레이터, 균형잡힌 삶"
       },
       {
@@ -608,7 +608,7 @@
         ],
         "visual_description": "이미지는 상단에 브랜드 메시지 텍스트와 부드러운 빛 그림자가 있는 배경, 하단에 크림 용기 제품이 놓인 모습을 담고 있습니다. 전체적으로 따뜻하고 차분한 톤으로 구성되어 있습니다.",
         "is_main_image": false,
-        "slug": "dire-campaign-product-message",
+        "slug": "insert-14c",
         "search_text": "DIRE dire-campaign-product-message 디르(DIRE)의 브랜드 미션과 핵심 가치를 전달하는 감성적인 캠페인 이미지. 일상에 가치를 더하는 헬스 앤 뷰티 라이프스타일을 제안하는 디르의 크림 제품과 메시지를 통해 브랜드의 차분하고 전문적인 아이덴티티를 경험하세요. 이미지는 상단에 브랜드 메시지 텍스트와 부드러운 빛 그림자가 있는 배경, 하단에 크림 용기 제품이 놓인 모습을 담고 있습니다. 전체적으로 따뜻하고 차분한 톤으로 구성되어 있습니다. minimal soft-tonal photographic typographic corporate-clean organic-modern serene sophisticated fresh contemplative elegant 일상에 가치를 더하는 헬스 앤 뷰티 라이프스타일 브랜드로, 건강한 리추얼 형성을 통해 균형잡힌 삶을 제안한다. minimal, soft-tonal, photographic, corporate-clean, organic-modern, typographic, editorial serene, sophisticated, fresh, warm, elegant, confident calm, professional, caring, authoritative Habit Tracker에서 영감을 받은 그래프 형태의 비주얼 모티브로 일상의 리추얼을 시각화하고, 개인화된 넘버링 시스템을 통해 자신만의 리추얼 라이프를 발견하도록 돕는다. DIRE, 디르, 브랜드 아이덴티티, 라이프스타일 브랜드, 헬스 앤 뷰티, 리추얼, 습관 형성, Essentual, 넘버링 시스템, 큐레이터, 균형잡힌 삶"
       },
       {
@@ -675,7 +675,7 @@
         ],
         "visual_description": "웹사이트 목업 이미지로, 상단에는 물컵을 든 여성이 클로즈업된 사진과 제품 병이 놓인 사진이 분할되어 배치되어 있다. 하단에는 세로 골지 패턴 배경에 제품 용기가 세워져 있는 모습이 보인다. 전체적으로 차분하고 깨끗하며 자연스러운 느낌을 준다.",
         "is_main_image": false,
-        "slug": "dire-digital-interface-homepage",
+        "slug": "insert-15",
         "search_text": "DIRE dire-digital-interface-homepage 디르(DIRE) 브랜드의 공식 웹사이트 홈 화면 디자인. 미니멀한 레이아웃과 따뜻한 색감, 제품 및 라이프스타일 이미지를 통해 건강한 일상과 균형 잡힌 삶의 가치를 전달합니다. 브랜드의 핵심 메시지를 담은 디지털 경험을 확인하세요. 웹사이트 목업 이미지로, 상단에는 물컵을 든 여성이 클로즈업된 사진과 제품 병이 놓인 사진이 분할되어 배치되어 있다. 하단에는 세로 골지 패턴 배경에 제품 용기가 세워져 있는 모습이 보인다. 전체적으로 차분하고 깨끗하며 자연스러운 느낌을 준다. minimal photographic corporate-clean soft-tonal editorial serene fresh sophisticated calm 일상에 가치를 더하는 헬스 앤 뷰티 라이프스타일 브랜드로, 건강한 리추얼 형성을 통해 균형잡힌 삶을 제안한다. minimal, soft-tonal, photographic, corporate-clean, organic-modern, typographic, editorial serene, sophisticated, fresh, warm, elegant, confident calm, professional, caring, authoritative Habit Tracker에서 영감을 받은 그래프 형태의 비주얼 모티브로 일상의 리추얼을 시각화하고, 개인화된 넘버링 시스템을 통해 자신만의 리추얼 라이프를 발견하도록 돕는다. DIRE, 디르, 브랜드 아이덴티티, 라이프스타일 브랜드, 헬스 앤 뷰티, 리추얼, 습관 형성, Essentual, 넘버링 시스템, 큐레이터, 균형잡힌 삶"
       },
       {
@@ -737,7 +737,7 @@
         ],
         "visual_description": "인스타그램 게시물 형식으로, 은은한 그림자가 드리워진 배경 위에 미니멀한 디자인의 제품 라벨이 놓여 있습니다. 라벨에는 'Casaba Hydrating Water'라는 제품명과 용량 정보, 그리고 브랜드 로고 'DI / RE'가 깔끔하게 인쇄되어 있습니다.",
         "is_main_image": false,
-        "slug": "dire-digital-interface-instagram-product-label",
+        "slug": "insert-18a",
         "search_text": "DIRE dire-digital-interface-instagram-product-label 디르(DIRE)의 'Casaba Hydrating Water' 제품 라벨이 인스타그램 게시물 형태로 연출된 이미지입니다. 미니멀한 디자인, 차분한 색감, 그리고 자연스러운 그림자 연출을 통해 브랜드의 균형 잡힌 라이프스타일과 건강한 리추얼 가치를 시각적으로 전달합니다. 인스타그램 게시물 형식으로, 은은한 그림자가 드리워진 배경 위에 미니멀한 디자인의 제품 라벨이 놓여 있습니다. 라벨에는 'Casaba Hydrating Water'라는 제품명과 용량 정보, 그리고 브랜드 로고 'DI / RE'가 깔끔하게 인쇄되어 있습니다. minimal soft-tonal typographic corporate-clean photographic serene sophisticated fresh calm 일상에 가치를 더하는 헬스 앤 뷰티 라이프스타일 브랜드로, 건강한 리추얼 형성을 통해 균형잡힌 삶을 제안한다. minimal, soft-tonal, photographic, corporate-clean, organic-modern, typographic, editorial serene, sophisticated, fresh, warm, elegant, confident calm, professional, caring, authoritative Habit Tracker에서 영감을 받은 그래프 형태의 비주얼 모티브로 일상의 리추얼을 시각화하고, 개인화된 넘버링 시스템을 통해 자신만의 리추얼 라이프를 발견하도록 돕는다. DIRE, 디르, 브랜드 아이덴티티, 라이프스타일 브랜드, 헬스 앤 뷰티, 리추얼, 습관 형성, Essentual, 넘버링 시스템, 큐레이터, 균형잡힌 삶"
       },
       {
@@ -804,7 +804,7 @@
         ],
         "visual_description": "클로즈업된 여성의 얼굴과 손이 보이는 이미지로, 여성이 손가락으로 뺨을 부드럽게 만지고 있다. 이미지 하단에는 숫자와 텍스트가 오버레이되어 있으며, 전체적으로 차분하고 자연스러운 분위기를 연출한다.",
         "is_main_image": false,
-        "slug": "dire-campaign-woman-face-hand-social-post",
+        "slug": "insert-18b",
         "search_text": "DIRE dire-campaign-woman-face-hand-social-post 디르(DIRE) 브랜드의 소셜 미디어 캠페인 이미지. 여성이 뺨을 부드럽게 만지는 클로즈업 사진으로, 'DIRE IS ESSENTUAL' 슬로건과 함께 건강한 일상 리추얼의 가치를 전달합니다. 차분하고 자연스러운 톤으로 브랜드의 전문성과 따뜻함을 표현합니다. 클로즈업된 여성의 얼굴과 손이 보이는 이미지로, 여성이 손가락으로 뺨을 부드럽게 만지고 있다. 이미지 하단에는 숫자와 텍스트가 오버레이되어 있으며, 전체적으로 차분하고 자연스러운 분위기를 연출한다. photographic minimal soft-tonal corporate-clean editorial serene intimate fresh elegant 일상에 가치를 더하는 헬스 앤 뷰티 라이프스타일 브랜드로, 건강한 리추얼 형성을 통해 균형잡힌 삶을 제안한다. minimal, soft-tonal, photographic, corporate-clean, organic-modern, typographic, editorial serene, sophisticated, fresh, warm, elegant, confident calm, professional, caring, authoritative Habit Tracker에서 영감을 받은 그래프 형태의 비주얼 모티브로 일상의 리추얼을 시각화하고, 개인화된 넘버링 시스템을 통해 자신만의 리추얼 라이프를 발견하도록 돕는다. DIRE, 디르, 브랜드 아이덴티티, 라이프스타일 브랜드, 헬스 앤 뷰티, 리추얼, 습관 형성, Essentual, 넘버링 시스템, 큐레이터, 균형잡힌 삶"
       },
       {
@@ -866,7 +866,7 @@
         ],
         "visual_description": "따뜻한 갈색 배경에 두 개의 화장품 용기가 놓여 있습니다. 전면에는 크림 용기가, 후면에는 투명한 액체 용기가 보이며, 배경에는 흰색 텍스트와 숫자가 배열되어 있습니다. 전체 이미지는 인스타그램 게시물 UI 안에 담겨 있습니다.",
         "is_main_image": false,
-        "slug": "dire-product-casaba-hydrating-duo",
+        "slug": "insert-18c",
         "search_text": "DIRE dire-product-casaba-hydrating-duo 디르(DIRE)의 카사바 하이드레이팅 크림과 토너 제품 사진. 미니멀하고 따뜻한 분위기 속에서 건강한 일상 리추얼을 제안하는 뷰티 웰니스 브랜드 디르의 핵심 가치를 담고 있습니다. 피부 보습과 진정을 위한 제품입니다. 따뜻한 갈색 배경에 두 개의 화장품 용기가 놓여 있습니다. 전면에는 크림 용기가, 후면에는 투명한 액체 용기가 보이며, 배경에는 흰색 텍스트와 숫자가 배열되어 있습니다. 전체 이미지는 인스타그램 게시물 UI 안에 담겨 있습니다. photographic minimal soft-tonal corporate-clean editorial serene sophisticated warm confident 일상에 가치를 더하는 헬스 앤 뷰티 라이프스타일 브랜드로, 건강한 리추얼 형성을 통해 균형잡힌 삶을 제안한다. minimal, soft-tonal, photographic, corporate-clean, organic-modern, typographic, editorial serene, sophisticated, fresh, warm, elegant, confident calm, professional, caring, authoritative Habit Tracker에서 영감을 받은 그래프 형태의 비주얼 모티브로 일상의 리추얼을 시각화하고, 개인화된 넘버링 시스템을 통해 자신만의 리추얼 라이프를 발견하도록 돕는다. DIRE, 디르, 브랜드 아이덴티티, 라이프스타일 브랜드, 헬스 앤 뷰티, 리추얼, 습관 형성, Essentual, 넘버링 시스템, 큐레이터, 균형잡힌 삶"
       },
       {
@@ -928,7 +928,7 @@
         ],
         "visual_description": "투명한 플라스틱 용기에 담긴 스킨케어 제품이 따뜻한 베이지색 직물 위에 놓여 있는 모습입니다. 제품 라벨에는 'Casaba Hydrating Water'라고 적혀 있으며, 배경은 어둡고 부드럽게 처리되어 있습니다.",
         "is_main_image": false,
-        "slug": "dire-casaba-hydrating-water-bottle",
+        "slug": "insert-17",
         "search_text": "DIRE dire-casaba-hydrating-water-bottle 디르 카사바 하이드레이팅 워터 제품 사진. 미니멀하고 따뜻한 베이지 톤 배경에서 디르의 스킨케어 제품이 선사하는 차분하고 건강한 일상의 가치를 경험하세요. 투명한 플라스틱 용기에 담긴 스킨케어 제품이 따뜻한 베이지색 직물 위에 놓여 있는 모습입니다. 제품 라벨에는 'Casaba Hydrating Water'라고 적혀 있으며, 배경은 어둡고 부드럽게 처리되어 있습니다. minimal soft-tonal photographic corporate-clean organic-modern serene fresh elegant intimate 일상에 가치를 더하는 헬스 앤 뷰티 라이프스타일 브랜드로, 건강한 리추얼 형성을 통해 균형잡힌 삶을 제안한다. minimal, soft-tonal, photographic, corporate-clean, organic-modern, typographic, editorial serene, sophisticated, fresh, warm, elegant, confident calm, professional, caring, authoritative Habit Tracker에서 영감을 받은 그래프 형태의 비주얼 모티브로 일상의 리추얼을 시각화하고, 개인화된 넘버링 시스템을 통해 자신만의 리추얼 라이프를 발견하도록 돕는다. DIRE, 디르, 브랜드 아이덴티티, 라이프스타일 브랜드, 헬스 앤 뷰티, 리추얼, 습관 형성, Essentual, 넘버링 시스템, 큐레이터, 균형잡힌 삶"
       },
       {
@@ -1014,7 +1014,51 @@
         ],
         "visual_description": "어두운 회색 단색 배경 이미지입니다. 어떠한 시각적 요소나 텍스트 없이 균일한 색상으로만 구성되어 있습니다.",
         "is_main_image": false,
-        "slug": "dire-mood-reference-dark-grey",
+        "slug": "insert-6",
+        "search_text": "DIRE dire-mood-reference-dark-grey 디르(DIRE) 브랜드의 핵심 색상 중 하나인 어두운 회색 배경입니다. 미니멀하고 차분한 브랜드 아이덴티티를 시각적으로 표현하며, 전문적이고 정돈된 느낌을 전달합니다. 웹사이트 배경, 그래픽 요소 등 다양한 디자인에 활용됩니다. 어두운 회색 단색 배경 이미지입니다. 어떠한 시각적 요소나 텍스트 없이 균일한 색상으로만 구성되어 있습니다. minimal monochrome soft-tonal serene sophisticated contemplative 일상에 가치를 더하는 헬스 앤 뷰티 라이프스타일 브랜드로, 건강한 리추얼 형성을 통해 균형잡힌 삶을 제안한다. minimal, soft-tonal, photographic, corporate-clean, organic-modern, typographic, editorial serene, sophisticated, fresh, warm, elegant, confident calm, professional, caring, authoritative Habit Tracker에서 영감을 받은 그래프 형태의 비주얼 모티브로 일상의 리추얼을 시각화하고, 개인화된 넘버링 시스템을 통해 자신만의 리추얼 라이프를 발견하도록 돕는다. DIRE, 디르, 브랜드 아이덴티티, 라이프스타일 브랜드, 헬스 앤 뷰티, 리추얼, 습관 형성, Essentual, 넘버링 시스템, 큐레이터, 균형잡힌 삶"
+      },
+      {
+        "content_type": "asset",
+        "parent_work": "dire",
+        "filters": {
+          "client": "DIRE",
+          "sector": "beauty-wellness",
+          "service": [
+            "brand-development-launch",
+            "strategic-positioning",
+            "concept-development",
+            "naming",
+            "visual-identity-system",
+            "verbal-identity-system",
+            "brand-guideline",
+            "packaging-prints",
+            "brand-website"
+          ]
+        },
+        "display_name": "dire-mood-reference-dark-grey",
+        "description": "디르(DIRE) 브랜드의 핵심 색상 중 하나인 어두운 회색 배경입니다. 미니멀하고 차분한 브랜드 아이덴티티를 시각적으로 표현하며, 전문적이고 정돈된 느낌을 전달합니다. 웹사이트 배경, 그래픽 요소 등 다양한 디자인에 활용됩니다.",
+        "embedding_text": "DIRE 브랜드, 어두운 회색, 단색 배경, 미니멀리즘, 차분함, 전문적, 정돈된, soft tonal, monochrome, sophisticated, dark grey, solid background, brand identity, minimal, clean.",
+        "style_tags": [
+          "minimal",
+          "monochrome",
+          "soft-tonal"
+        ],
+        "mood_tags": [
+          "serene",
+          "sophisticated",
+          "contemplative"
+        ],
+        "asset_type": "mood-reference",
+        "color_palette": [
+          {
+            "hex": "#333333",
+            "role": "dominant",
+            "name": "dark-grey"
+          }
+        ],
+        "visual_description": "어두운 회색 단색 배경 이미지입니다. 어떠한 시각적 요소나 텍스트 없이 균일한 색상으로만 구성되어 있습니다.",
+        "is_main_image": false,
+        "slug": "hero-1",
         "search_text": "DIRE dire-mood-reference-dark-grey 디르(DIRE) 브랜드의 핵심 색상 중 하나인 어두운 회색 배경입니다. 미니멀하고 차분한 브랜드 아이덴티티를 시각적으로 표현하며, 전문적이고 정돈된 느낌을 전달합니다. 웹사이트 배경, 그래픽 요소 등 다양한 디자인에 활용됩니다. 어두운 회색 단색 배경 이미지입니다. 어떠한 시각적 요소나 텍스트 없이 균일한 색상으로만 구성되어 있습니다. minimal monochrome soft-tonal serene sophisticated contemplative 일상에 가치를 더하는 헬스 앤 뷰티 라이프스타일 브랜드로, 건강한 리추얼 형성을 통해 균형잡힌 삶을 제안한다. minimal, soft-tonal, photographic, corporate-clean, organic-modern, typographic, editorial serene, sophisticated, fresh, warm, elegant, confident calm, professional, caring, authoritative Habit Tracker에서 영감을 받은 그래프 형태의 비주얼 모티브로 일상의 리추얼을 시각화하고, 개인화된 넘버링 시스템을 통해 자신만의 리추얼 라이프를 발견하도록 돕는다. DIRE, 디르, 브랜드 아이덴티티, 라이프스타일 브랜드, 헬스 앤 뷰티, 리추얼, 습관 형성, Essentual, 넘버링 시스템, 큐레이터, 균형잡힌 삶"
       },
       {
@@ -1081,7 +1125,7 @@
         ],
         "visual_description": "부드러운 베이지색 배경에 화장품 제품들이 클로즈업되어 있다. 중앙에는 베이지색 튜브형 클렌저가 투명한 캡과 함께 놓여 있고, 좌우로는 흐릿하게 다른 제품들이 배치되어 있다. 전체적으로 따뜻하고 차분한 분위기를 연출한다.",
         "is_main_image": false,
-        "slug": "dire-product-exfoliating-cleanser-detail",
+        "slug": "hero-2",
         "search_text": "DIRE dire-product-exfoliating-cleanser-detail 디르 카사바 각질 클렌저의 상세 이미지. 부드러운 베이지색 용기와 투명한 캡이 돋보이며, 미니멀하고 차분한 브랜드 아이덴티티를 반영합니다. 건강한 피부 관리를 위한 디르의 제품 디자인을 확인하세요. 부드러운 베이지색 배경에 화장품 제품들이 클로즈업되어 있다. 중앙에는 베이지색 튜브형 클렌저가 투명한 캡과 함께 놓여 있고, 좌우로는 흐릿하게 다른 제품들이 배치되어 있다. 전체적으로 따뜻하고 차분한 분위기를 연출한다. minimal soft-tonal corporate-clean photographic organic-modern serene fresh sophisticated warm 일상에 가치를 더하는 헬스 앤 뷰티 라이프스타일 브랜드로, 건강한 리추얼 형성을 통해 균형잡힌 삶을 제안한다. minimal, soft-tonal, photographic, corporate-clean, organic-modern, typographic, editorial serene, sophisticated, fresh, warm, elegant, confident calm, professional, caring, authoritative Habit Tracker에서 영감을 받은 그래프 형태의 비주얼 모티브로 일상의 리추얼을 시각화하고, 개인화된 넘버링 시스템을 통해 자신만의 리추얼 라이프를 발견하도록 돕는다. DIRE, 디르, 브랜드 아이덴티티, 라이프스타일 브랜드, 헬스 앤 뷰티, 리추얼, 습관 형성, Essentual, 넘버링 시스템, 큐레이터, 균형잡힌 삶"
       },
       {
@@ -1145,7 +1189,7 @@
         ],
         "visual_description": "베이지 톤의 튜브형 클렌저와 투명한 용기의 토너가 부드러운 빛 속에서 촬영된 제품 사진입니다. 전반적으로 따뜻하고 차분한 색감과 깨끗한 분위기가 느껴집니다.",
         "is_main_image": false,
-        "slug": "dire-product-cleanser-toner",
+        "slug": "hero-3",
         "search_text": "DIRE dire-product-cleanser-toner 디르의 카사바 엑스폴리에이팅 클렌저와 하이드레이팅 토너 제품 사진. 따뜻하고 미니멀한 디자인으로 건강한 피부 리추얼을 제안하는 디르의 브랜드 가치를 담고 있습니다. 베이지 톤의 튜브형 클렌저와 투명한 용기의 토너가 부드러운 빛 속에서 촬영된 제품 사진입니다. 전반적으로 따뜻하고 차분한 색감과 깨끗한 분위기가 느껴집니다. minimal soft-tonal corporate-clean photographic luxury-minimalism organic-modern serene sophisticated fresh elegant warm 일상에 가치를 더하는 헬스 앤 뷰티 라이프스타일 브랜드로, 건강한 리추얼 형성을 통해 균형잡힌 삶을 제안한다. minimal, soft-tonal, photographic, corporate-clean, organic-modern, typographic, editorial serene, sophisticated, fresh, warm, elegant, confident calm, professional, caring, authoritative Habit Tracker에서 영감을 받은 그래프 형태의 비주얼 모티브로 일상의 리추얼을 시각화하고, 개인화된 넘버링 시스템을 통해 자신만의 리추얼 라이프를 발견하도록 돕는다. DIRE, 디르, 브랜드 아이덴티티, 라이프스타일 브랜드, 헬스 앤 뷰티, 리추얼, 습관 형성, Essentual, 넘버링 시스템, 큐레이터, 균형잡힌 삶"
       },
       {
@@ -1269,7 +1313,7 @@
         ],
         "visual_description": "밝은 베이지색 제품 박스가 전면에 놓여 있으며, 박스 상단에는 'DIRE NUMBERS GUIDE'라는 텍스트와 시간, 감정 관련 표가 인쇄되어 있습니다. 배경에는 투명한 병이 흐릿하게 보이며, 병 라벨에 'DI / RE'라는 글자가 세로로 적혀 있습니다.",
         "is_main_image": false,
-        "slug": "dire-product-box-ritual-guide",
+        "slug": "hero-4",
         "search_text": "DIRE dire-product-box-ritual-guide 디르(DIRE)의 제품 박스에 담긴 'DIRE NUMBERS GUIDE'를 통해 건강한 일상 리추얼을 시각화합니다. 시간과 감정 상태를 기록하며 자신만의 균형 잡힌 습관을 만들어가는 디르의 철학을 보여주는 이미지입니다. 밝은 베이지색 제품 박스가 전면에 놓여 있으며, 박스 상단에는 'DIRE NUMBERS GUIDE'라는 텍스트와 시간, 감정 관련 표가 인쇄되어 있습니다. 배경에는 투명한 병이 흐릿하게 보이며, 병 라벨에 'DI / RE'라는 글자가 세로로 적혀 있습니다. minimal corporate-clean soft-tonal typographic photographic editorial organic-modern serene fresh sophisticated 일상에 가치를 더하는 헬스 앤 뷰티 라이프스타일 브랜드로, 건강한 리추얼 형성을 통해 균형잡힌 삶을 제안한다. minimal, soft-tonal, photographic, corporate-clean, organic-modern, typographic, editorial serene, sophisticated, fresh, warm, elegant, confident calm, professional, caring, authoritative Habit Tracker에서 영감을 받은 그래프 형태의 비주얼 모티브로 일상의 리추얼을 시각화하고, 개인화된 넘버링 시스템을 통해 자신만의 리추얼 라이프를 발견하도록 돕는다. DIRE, 디르, 브랜드 아이덴티티, 라이프스타일 브랜드, 헬스 앤 뷰티, 리추얼, 습관 형성, Essentual, 넘버링 시스템, 큐레이터, 균형잡힌 삶"
       },
       {
@@ -1395,7 +1439,7 @@
         ],
         "visual_description": "따뜻한 조명 아래 두 개의 화장품 용기가 놓여 있습니다. 왼쪽에는 램프와 부드러운 흰색 천이 배경으로 드리워져 있으며, 전체적으로 차분하고 자연스러운 분위기를 연출합니다.",
         "is_main_image": false,
-        "slug": "dire-product-hydrating-duo",
+        "slug": "hero-5",
         "search_text": "DIRE dire-product-hydrating-duo 디르(DIRE)의 카사바 하이드레이팅 모이스처와 워터 제품이 따뜻하고 미니멀한 공간에 놓여있는 모습입니다. 건강한 피부 리추얼을 위한 디르의 철학을 담은 제품 디자인과 차분한 브랜드 무드를 경험하세요. 따뜻한 조명 아래 두 개의 화장품 용기가 놓여 있습니다. 왼쪽에는 램프와 부드러운 흰색 천이 배경으로 드리워져 있으며, 전체적으로 차분하고 자연스러운 분위기를 연출합니다. minimal soft-tonal photographic organic-modern corporate-clean serene warm fresh elegant 일상에 가치를 더하는 헬스 앤 뷰티 라이프스타일 브랜드로, 건강한 리추얼 형성을 통해 균형잡힌 삶을 제안한다. minimal, soft-tonal, photographic, corporate-clean, organic-modern, typographic, editorial serene, sophisticated, fresh, warm, elegant, confident calm, professional, caring, authoritative Habit Tracker에서 영감을 받은 그래프 형태의 비주얼 모티브로 일상의 리추얼을 시각화하고, 개인화된 넘버링 시스템을 통해 자신만의 리추얼 라이프를 발견하도록 돕는다. DIRE, 디르, 브랜드 아이덴티티, 라이프스타일 브랜드, 헬스 앤 뷰티, 리추얼, 습관 형성, Essentual, 넘버링 시스템, 큐레이터, 균형잡힌 삶"
       },
       {
@@ -1436,7 +1480,7 @@
         "color_palette": [],
         "visual_description": "이 이미지는 'DIRE' 브랜드의 'Casaba Hydrating Water' 제품에 대한 상세한 가이드라인 시트입니다. 제품명, 용량, 사용법, 효능효과, 전성분, 사용 시 주의사항, 그리고 독자적인 'DIRE NUMBERS GUIDE' 표가 포함되어 있습니다.",
         "is_main_image": false,
-        "slug": "dire-guideline-product-sheet",
+        "slug": "insert-11",
         "search_text": "DIRE dire-guideline-product-sheet DIRE 카사바 하이드레이팅 워터 제품의 상세 정보, 사용법, 전성분, 주의사항 및 독자적인 넘버링 가이드를 제공하는 공식 문서입니다. 브랜드의 철학과 제품의 가치를 명확하게 전달합니다. 이 이미지는 'DIRE' 브랜드의 'Casaba Hydrating Water' 제품에 대한 상세한 가이드라인 시트입니다. 제품명, 용량, 사용법, 효능효과, 전성분, 사용 시 주의사항, 그리고 독자적인 'DIRE NUMBERS GUIDE' 표가 포함되어 있습니다. minimal corporate-clean typographic grid-based techspec authoritative fresh sophisticated serene 일상에 가치를 더하는 헬스 앤 뷰티 라이프스타일 브랜드로, 건강한 리추얼 형성을 통해 균형잡힌 삶을 제안한다. minimal, soft-tonal, photographic, corporate-clean, organic-modern, typographic, editorial serene, sophisticated, fresh, warm, elegant, confident calm, professional, caring, authoritative Habit Tracker에서 영감을 받은 그래프 형태의 비주얼 모티브로 일상의 리추얼을 시각화하고, 개인화된 넘버링 시스템을 통해 자신만의 리추얼 라이프를 발견하도록 돕는다. DIRE, 디르, 브랜드 아이덴티티, 라이프스타일 브랜드, 헬스 앤 뷰티, 리추얼, 습관 형성, Essentual, 넘버링 시스템, 큐레이터, 균형잡힌 삶"
       },
       {
@@ -1498,7 +1542,7 @@
         ],
         "visual_description": "베이지색 배경 위에 놓인 갈색 골판지 상자가 보이며, 상자 위에는 브랜드 로고와 슬로건이 인쇄된 갈색 포장 테이프가 붙어 있습니다. 테이프의 일부가 상자에서 떨어져 나와 배경 위로 뻗어 있습니다.",
         "is_main_image": false,
-        "slug": "dire-packaging-tape-box",
+        "slug": "insert-13b",
         "search_text": "DIRE dire-packaging-tape-box 디르(DIRE)의 브랜드 로고와 슬로건이 새겨진 친환경적인 갈색 포장 테이프가 부착된 골판지 상자 이미지. 일상 속 건강한 리추얼을 제안하는 디르의 가치를 포장 디자인으로 표현합니다. 베이지색 배경 위에 놓인 갈색 골판지 상자가 보이며, 상자 위에는 브랜드 로고와 슬로건이 인쇄된 갈색 포장 테이프가 붙어 있습니다. 테이프의 일부가 상자에서 떨어져 나와 배경 위로 뻗어 있습니다. minimal corporate-clean typographic soft-tonal organic-modern serene sophisticated fresh confident 일상에 가치를 더하는 헬스 앤 뷰티 라이프스타일 브랜드로, 건강한 리추얼 형성을 통해 균형잡힌 삶을 제안한다. minimal, soft-tonal, photographic, corporate-clean, organic-modern, typographic, editorial serene, sophisticated, fresh, warm, elegant, confident calm, professional, caring, authoritative Habit Tracker에서 영감을 받은 그래프 형태의 비주얼 모티브로 일상의 리추얼을 시각화하고, 개인화된 넘버링 시스템을 통해 자신만의 리추얼 라이프를 발견하도록 돕는다. DIRE, 디르, 브랜드 아이덴티티, 라이프스타일 브랜드, 헬스 앤 뷰티, 리추얼, 습관 형성, Essentual, 넘버링 시스템, 큐레이터, 균형잡힌 삶"
       },
       {
@@ -1561,7 +1605,7 @@
         ],
         "visual_description": "왼쪽에는 미세한 질감의 밝은 배경 위에 가는 선으로 나뉜 네 개의 구획 중 세 곳에 'now'라는 단어가 타이포그래피적으로 배치되어 있습니다. 오른쪽에는 흰 침구에 앉아 신문을 읽는 붉은 머리 여인의 차분한 모습이 담겨 있습니다.",
         "is_main_image": false,
-        "slug": "dire-lifestyle-morning-ritual",
+        "slug": "insert-3",
         "search_text": "DIRE dire-lifestyle-morning-ritual DIRE 브랜드의 핵심 가치인 '건강한 리추얼'을 시각적으로 표현한 이미지입니다. 차분한 아침 일상과 'now'라는 메시지를 통해 현재에 집중하는 삶의 태도를 제안하며, 균형 잡힌 라이프스타일을 위한 영감을 제공합니다. 왼쪽에는 미세한 질감의 밝은 배경 위에 가는 선으로 나뉜 네 개의 구획 중 세 곳에 'now'라는 단어가 타이포그래피적으로 배치되어 있습니다. 오른쪽에는 흰 침구에 앉아 신문을 읽는 붉은 머리 여인의 차분한 모습이 담겨 있습니다. minimal editorial typographic photographic soft-tonal corporate-clean serene contemplative fresh intimate 일상에 가치를 더하는 헬스 앤 뷰티 라이프스타일 브랜드로, 건강한 리추얼 형성을 통해 균형잡힌 삶을 제안한다. minimal, soft-tonal, photographic, corporate-clean, organic-modern, typographic, editorial serene, sophisticated, fresh, warm, elegant, confident calm, professional, caring, authoritative Habit Tracker에서 영감을 받은 그래프 형태의 비주얼 모티브로 일상의 리추얼을 시각화하고, 개인화된 넘버링 시스템을 통해 자신만의 리추얼 라이프를 발견하도록 돕는다. DIRE, 디르, 브랜드 아이덴티티, 라이프스타일 브랜드, 헬스 앤 뷰티, 리추얼, 습관 형성, Essentual, 넘버링 시스템, 큐레이터, 균형잡힌 삶"
       },
       {
@@ -1613,7 +1657,7 @@
         ],
         "visual_description": "밝은 베이지색 배경 위에 세 줄의 텍스트가 중앙에 정렬되어 있습니다. 가운데 줄의 'DI / RE'는 굵은 검은색 글씨로 강조되어 있으며, 위아래 줄의 숫자 '01 / 01'과 '12 / 30'은 가는 선으로만 이루어진 아웃라인 글씨로 표현되어 있습니다. 각 텍스트 줄 사이에는 얇은 수평선이 있습니다.",
         "is_main_image": false,
-        "slug": "dire-typography-contrast-grid",
+        "slug": "insert-5",
         "search_text": "DIRE dire-typography-contrast-grid 디르(DIRE) 브랜드의 타이포그래피 시스템을 보여주는 이미지. 굵은 서체와 가는 아웃라인 서체의 대비, 그리고 정돈된 그리드 정렬을 통해 브랜드의 차분하고 전문적인 아이덴티티를 강조합니다. 헬스 앤 뷰티 브랜드 디르의 시각적 언어를 확인하세요. 밝은 베이지색 배경 위에 세 줄의 텍스트가 중앙에 정렬되어 있습니다. 가운데 줄의 'DI / RE'는 굵은 검은색 글씨로 강조되어 있으며, 위아래 줄의 숫자 '01 / 01'과 '12 / 30'은 가는 선으로만 이루어진 아웃라인 글씨로 표현되어 있습니다. 각 텍스트 줄 사이에는 얇은 수평선이 있습니다. minimal typographic high-contrast corporate-clean editorial serene sophisticated authoritative clean 일상에 가치를 더하는 헬스 앤 뷰티 라이프스타일 브랜드로, 건강한 리추얼 형성을 통해 균형잡힌 삶을 제안한다. minimal, soft-tonal, photographic, corporate-clean, organic-modern, typographic, editorial serene, sophisticated, fresh, warm, elegant, confident calm, professional, caring, authoritative Habit Tracker에서 영감을 받은 그래프 형태의 비주얼 모티브로 일상의 리추얼을 시각화하고, 개인화된 넘버링 시스템을 통해 자신만의 리추얼 라이프를 발견하도록 돕는다. DIRE, 디르, 브랜드 아이덴티티, 라이프스타일 브랜드, 헬스 앤 뷰티, 리추얼, 습관 형성, Essentual, 넘버링 시스템, 큐레이터, 균형잡힌 삶"
       },
       {
@@ -1669,7 +1713,7 @@
         ],
         "visual_description": "이미지는 두 개의 분리된 패널로 구성되어 있으며, 왼쪽 패널에는 'D' 형태의 로고 마크가, 오른쪽 패널에는 'DI / RE'라는 워드마크가 표시되어 있습니다. 각 패널은 다른 색상의 배경을 사용하고 있습니다.",
         "is_main_image": false,
-        "slug": "dire-logo-system-mark-wordmark",
+        "slug": "insert-7",
         "search_text": "DIRE dire-logo-system-mark-wordmark 디르(DIRE) 브랜드의 공식 로고 마크와 워드마크 디자인을 담은 이미지입니다. 미니멀한 조형미와 슬래시 모티프를 통해 균형잡힌 일상의 가치를 전달하는 헬스 앤 뷰티 브랜드의 시각적 정체성을 명확하게 보여줍니다. 이미지는 두 개의 분리된 패널로 구성되어 있으며, 왼쪽 패널에는 'D' 형태의 로고 마크가, 오른쪽 패널에는 'DI / RE'라는 워드마크가 표시되어 있습니다. 각 패널은 다른 색상의 배경을 사용하고 있습니다. minimal typographic high-contrast editorial elegant sophisticated serene confident 일상에 가치를 더하는 헬스 앤 뷰티 라이프스타일 브랜드로, 건강한 리추얼 형성을 통해 균형잡힌 삶을 제안한다. minimal, soft-tonal, photographic, corporate-clean, organic-modern, typographic, editorial serene, sophisticated, fresh, warm, elegant, confident calm, professional, caring, authoritative Habit Tracker에서 영감을 받은 그래프 형태의 비주얼 모티브로 일상의 리추얼을 시각화하고, 개인화된 넘버링 시스템을 통해 자신만의 리추얼 라이프를 발견하도록 돕는다. DIRE, 디르, 브랜드 아이덴티티, 라이프스타일 브랜드, 헬스 앤 뷰티, 리추얼, 습관 형성, Essentual, 넘버링 시스템, 큐레이터, 균형잡힌 삶"
       },
       {
@@ -1710,7 +1754,7 @@
         "color_palette": [],
         "visual_description": "DIRE 브랜드의 컬러 시스템을 보여주는 이미지로, 따뜻한 옐로우와 브라운 계열의 색상 팔레트와 각 색상에 대한 CMYK, RGB 값이 명시되어 있습니다. 왼쪽에는 이 컬러 팔레트의 무드를 보여주는 사진이 함께 배치되어 있습니다.",
         "is_main_image": false,
-        "slug": "dire-color-system-guideline",
+        "slug": "insert-8",
         "search_text": "DIRE dire-color-system-guideline DIRE 브랜드의 공식 컬러 시스템 가이드라인. 아침, 오후, 저녁, 밤을 상징하는 옐로우 및 브라운 계열의 색상 팔레트와 CMYK, RGB 색상 코드를 상세히 제공합니다. 브랜드의 차분하고 따뜻한 아이덴티티를 구축하는 데 사용된 핵심 색상 정보를 확인하세요. DIRE 브랜드의 컬러 시스템을 보여주는 이미지로, 따뜻한 옐로우와 브라운 계열의 색상 팔레트와 각 색상에 대한 CMYK, RGB 값이 명시되어 있습니다. 왼쪽에는 이 컬러 팔레트의 무드를 보여주는 사진이 함께 배치되어 있습니다. minimal soft-tonal photographic corporate-clean organic-modern serene warm sophisticated contemplative 일상에 가치를 더하는 헬스 앤 뷰티 라이프스타일 브랜드로, 건강한 리추얼 형성을 통해 균형잡힌 삶을 제안한다. minimal, soft-tonal, photographic, corporate-clean, organic-modern, typographic, editorial serene, sophisticated, fresh, warm, elegant, confident calm, professional, caring, authoritative Habit Tracker에서 영감을 받은 그래프 형태의 비주얼 모티브로 일상의 리추얼을 시각화하고, 개인화된 넘버링 시스템을 통해 자신만의 리추얼 라이프를 발견하도록 돕는다. DIRE, 디르, 브랜드 아이덴티티, 라이프스타일 브랜드, 헬스 앤 뷰티, 리추얼, 습관 형성, Essentual, 넘버링 시스템, 큐레이터, 균형잡힌 삶"
       },
       {
@@ -1747,7 +1791,7 @@
         "color_palette": [],
         "visual_description": "이 이미지는 Utile Book, Utile Regular, Utile Medium 및 Noto Sans DemiLight, Noto Sans Regular, Noto Sans Medium 서체의 다양한 굵기를 한국어와 영어 문장으로 보여주는 타이포그래피 시스템 사양입니다.",
         "is_main_image": false,
-        "slug": "dire-typography-system-specimen",
+        "slug": "insert-9",
         "search_text": "DIRE dire-typography-system-specimen 디르(DIRE) 브랜드의 공식 타이포그래피 시스템을 상세히 보여줍니다. 영문 Utile과 한글 Noto Sans 서체의 각 굵기별 예시를 통해 브랜드의 시각적 아이덴티티와 커뮤니케이션 원칙을 이해할 수 있습니다. 건강한 리추얼 라이프스타일을 위한 전문적이고 차분한 브랜드 톤을 타이포그래피로 구현합니다. 이 이미지는 Utile Book, Utile Regular, Utile Medium 및 Noto Sans DemiLight, Noto Sans Regular, Noto Sans Medium 서체의 다양한 굵기를 한국어와 영어 문장으로 보여주는 타이포그래피 시스템 사양입니다. corporate-clean typographic minimal authoritative sophisticated 일상에 가치를 더하는 헬스 앤 뷰티 라이프스타일 브랜드로, 건강한 리추얼 형성을 통해 균형잡힌 삶을 제안한다. minimal, soft-tonal, photographic, corporate-clean, organic-modern, typographic, editorial serene, sophisticated, fresh, warm, elegant, confident calm, professional, caring, authoritative Habit Tracker에서 영감을 받은 그래프 형태의 비주얼 모티브로 일상의 리추얼을 시각화하고, 개인화된 넘버링 시스템을 통해 자신만의 리추얼 라이프를 발견하도록 돕는다. DIRE, 디르, 브랜드 아이덴티티, 라이프스타일 브랜드, 헬스 앤 뷰티, 리추얼, 습관 형성, Essentual, 넘버링 시스템, 큐레이터, 균형잡힌 삶"
       },
       {
