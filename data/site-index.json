@@ -1,7 +1,7 @@
 {
   "$schema": "hypt-site-index/1.0",
   "version": "1.0.0",
-  "built_at": "2026-02-28T02:31:29.945Z",
+  "built_at": "2026-02-28T02:37:24.169Z",
   "sources": {
     "DIRE": {
       "manifest": "1.0",
@@ -120,7 +120,7 @@
           }
         ],
         "visual_description": "세 가지 화장품 용기가 베이지색 직물 위에 놓여 있다. 왼쪽에는 크림 용기, 중앙에는 투명한 토너 병, 오른쪽에는 튜브형 클렌저가 배치되어 있다. 전체적으로 부드럽고 자연스러운 색감과 차분한 분위기가 느껴진다.",
-        "is_main_image": false,
+        "is_main_image": true,
         "slug": "dire-skincare-product-lineup",
         "search_text": "DIRE dire-skincare-product-lineup 디르 카사바 하이드레이팅 워터, 모이스처, 클렌저 3종 세트. 미니멀하고 따뜻한 디자인으로 건강한 뷰티 리추얼을 제안하는 디르의 스킨케어 제품을 만나보세요. 세 가지 화장품 용기가 베이지색 직물 위에 놓여 있다. 왼쪽에는 크림 용기, 중앙에는 투명한 토너 병, 오른쪽에는 튜브형 클렌저가 배치되어 있다. 전체적으로 부드럽고 자연스러운 색감과 차분한 분위기가 느껴진다. minimal photographic soft-tonal corporate-clean organic-modern serene fresh sophisticated warm 일상에 가치를 더하는 헬스 앤 뷰티 라이프스타일 브랜드로, 건강한 리추얼 형성을 통해 균형잡힌 삶을 제안한다. minimal, soft-tonal, photographic, corporate-clean, organic-modern, typographic, editorial serene, sophisticated, fresh, warm, elegant, confident calm, professional, caring, authoritative Habit Tracker에서 영감을 받은 그래프 형태의 비주얼 모티브로 일상의 리추얼을 시각화하고, 개인화된 넘버링 시스템을 통해 자신만의 리추얼 라이프를 발견하도록 돕는다. DIRE, 디르, 브랜드 아이덴티티, 라이프스타일 브랜드, 헬스 앤 뷰티, 리추얼, 습관 형성, Essentual, 넘버링 시스템, 큐레이터, 균형잡힌 삶"
       },
